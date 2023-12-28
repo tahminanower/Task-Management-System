@@ -55,4 +55,7 @@ Welcome to the user manual of the Task Management System (TMS), a Java-based app
 
 ● Option 2 (How to write commands): If the user selects this option, the function enters a loop where it prompts the user to inquire about the syntax of specific commands related to the system. It then responds with the appropriate syntax for the requested command. This feature helps users understand how to structure commands for interacting with the system.
 
-● Option 3 (Contact the developers): If the user selects this option, the function provides information on how to contact the developers of the system, including details
+● Option 3 (Contact the developers): If the user selects this option, the function provides information on how to contact the developers of the system, including details.
+
+
+## Look into the user Manual for more details on each and every funtion and how to run the system
