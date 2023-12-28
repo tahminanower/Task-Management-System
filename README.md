@@ -58,4 +58,4 @@ Welcome to the user manual of the Task Management System (TMS), a Java-based app
 ● Option 3 (Contact the developers): If the user selects this option, the function provides information on how to contact the developers of the system, including details.
 
 
-## Look into the user Manual for more details on each and every funtion and how to run the system
+## Look into the user Manual for more details on each and every funtion and how to run the system!
